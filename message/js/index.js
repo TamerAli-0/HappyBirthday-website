@@ -1,6 +1,6 @@
 this.$dom = {};
 this.$dom.animatedText = document.createElement('div');
-this.text = "I'll write some message here later";  // MESSAGE AREA , THIS CAN BE CHANGED FROM YOUR MESSAGE :)
+this.text = "I'Dear Toota, From the moment i joined that gc, and when i saw how we talked, matching the energy, it was the best thing that happened to me. Heres a website i built for your birthday. Hope u like it, and have a wonderful birthday, congrats! on being 15. Mwah";  // MESSAGE AREA , THIS CAN BE CHANGED FROM YOUR MESSAGE :)
 this.$dom.container = document.getElementById('container');
 this.$dom.container.appendChild(this.$dom.animatedText);
 animateText();
