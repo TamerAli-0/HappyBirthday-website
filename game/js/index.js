@@ -237,7 +237,7 @@ Fonts from Google Fonts
 
   };
 
-  var wordList = ["CUTE"];
+  var wordList = ["LOVE"];
 
   Hangman.init(wordList);
 
